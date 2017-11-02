@@ -1,11 +1,8 @@
 # CIDR Calculator
 
-Tugas kecil untuk menyelesaikan mata kuliah IF3130 Jaringan Komputer
-Program Studi Teknik Informatika
-Institut Teknologi
-Bandung
+Tugas Kecil Jaringan Komputer IF3130
 
-Created by Ray Andrew - 13515073
+Created by Aldrich Valentino Halim - 13515081
 
 ---
 
@@ -47,7 +44,4 @@ make run
 
 ## Authors
 
-* **Ray Andrew** - [Ray Andrew](https://github.com/rayandrews)
-
-## LICENSE
-Do whatever you want dude, this is open, feel free to use!
+* **Aldrich Valentino** - [Aldrich Valentino](https://github.com/aldrichvalentino)
