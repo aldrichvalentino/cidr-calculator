@@ -1,5 +1,5 @@
 all:
 
 run:
-	python client.py
+	python src/client.py
 	
